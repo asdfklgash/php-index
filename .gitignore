@@ -1,2 +1,4 @@
 nbproject
 tests/unit/sandbox.php
+.idea
+vendor
